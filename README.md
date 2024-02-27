@@ -2,6 +2,8 @@
 [![Github Badge](https://img.shields.io/badge/-@huk10-%23181717?style=flat-square&logo=github)](https://github.com/huk10)
 [![Gmail Badge](https://img.shields.io/badge/-vvgvjks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vvgvjks@gmail.com)](vvgvjks@gmail.com)
 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huk10&theme=vue) -->
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 ### Technologies
@@ -31,7 +33,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=huk10&repo=node-coverage-report)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=huk10&repo=script)
+![](https://github-readme-stats.vercel.app/api/pin/?username=huk10&repo=scripts)
 
 
 ### Github 𝗦𝘁𝗮𝘁𝘀
