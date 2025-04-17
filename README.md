@@ -4,12 +4,12 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-<!-- ### Something interesting -->
+### Something interesting
 
-<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=node-coverage-report) -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=alley)](https://github.com/nupzil/alley) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=useful-scripts)](https://github.com/nupzil/useful-scripts) 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=scripts)  -->
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=node-coverage-report)](https://github.com/nupzil/node-coverage-report) 
 
 ### Github 𝗦𝘁𝗮𝘁𝘀
 
