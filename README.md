@@ -10,7 +10,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=useful-scripts)](https://github.com/nupzil/useful-scripts) 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=node-coverage-report)](https://github.com/nupzil/node-coverage-report) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&nuinex)](https://github.com/nupzil/nuinex) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nupzil&repo=nuinex)](https://github.com/nupzil/nuinex) 
 
 ### Github 𝗦𝘁𝗮𝘁𝘀
 
